@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rohan Varankar<br><br>< A passionate Frontend Web Developer from India ><br><br>🔭 I’m currently working on LocalGrow Project<br><br>🌱 I’m FullStack Web Developer<br><br>👨‍💻 All of my projects are available at https://rohanportfolio-tawny.vercel.app<br><br>💬 Ask me about Nextjs, Java<br><br>📫 How to reach me rohanvarankarcomp20@gmail.com<br><br>⚡ Fun fact I forget to eat and sleep while coding😒😂
+Hi 👋, I'm Rohan Varankar<br><br>< A passionate FullStack Web Developer from India ><br><br>🔭 I’m currently working on LocalGrow Project<br><br>🌱 I’m FullStack Web Developer<br><br>👨‍💻 All of my projects are available at https://rohanportfolio-tawny.vercel.app<br><br>💬 Ask me about Nextjs, Java<br><br>📫 How to reach me rohanvarankarcomp20@gmail.com<br><br>⚡ Fun fact I forget to eat and sleep while coding😒😂
 
 
 ## 🌐 Socials:
